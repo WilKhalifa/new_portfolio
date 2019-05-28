@@ -5192,4 +5192,13 @@ textarea {
     margin-top: 40px;
 }
 
+.linkP {
+    margin-top: 30px;
+}
+
+.link-text {
+    text-decoration: none;
+    color: black;
+}
+
 /*# sourceMappingURL=main.70a66962.map*/
